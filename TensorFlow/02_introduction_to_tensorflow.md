@@ -1,7 +1,5 @@
----
-fontsize: 24pt
----
-# 02_introduction_to_tensorflow
+
+# Introduction To Tensorflow
 
 ***Missing earlier parts of section two because I started using Inkdrop in the middle of the section***
 
